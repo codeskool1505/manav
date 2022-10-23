@@ -13,7 +13,7 @@ new Vue({
           name: "Happy Birthday to you",
           artist: "Manav Gola",
           cover: "https://github.com/codeskool1505/manav/blob/88d449d04c2af31a1ee9d50e95bb75a77a5586bd/img/img1.jpeg",
-          source: "/home/myroot/player/mp3/1.mp3",
+          source: "https://github.com/codeskool1505/manav/blob/main/music/Song(1).mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
